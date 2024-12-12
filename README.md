@@ -22,7 +22,7 @@ Secondly, linear approximation was conducted using the differential equation to 
 
     $N(t) = N0e^rt$
 
-    The regression equation cn be written as:
+    The regression equation can be written as:
 
     $ln(N) = ln(n0) + rt$
 
@@ -67,7 +67,7 @@ b) Under logistic growth, the population size is not exponential. Using the logi
 
 $N(t) = KN0e^rt / K-N0 + N0e^rt$
 
-Subbing in my values for t, K, N- and r:
+Subbing in my values for t, K, N0 and r:
 
 N(4980) = (6.00e^10) x (5.05 x 10^24) / ((6.00e^10) - 975.548) + (5.05 x 10^24) = **6.00 x 10^10**. 
 
