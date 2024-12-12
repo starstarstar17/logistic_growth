@@ -76,3 +76,8 @@ N(4980) = (6.00e^10) x (5.05 x 10^24) / ((6.00e^10) - 975.548) + (5.05 x 10^24) 
 
 
 ### Q3) 
+Graph comparing the exponential and logistic growth curves:
+
+
+![image](https://github.com/user-attachments/assets/09497268-c032-48f5-89f2-f3f2dc01d11f)
+
